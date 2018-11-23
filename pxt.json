@@ -19,6 +19,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
+    "public": true,
     "license": "TIM"
 }
