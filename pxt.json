@@ -1,6 +1,6 @@
 {
     "name": "IR",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "IR By cxk",
     "dependencies": {
         "core": "*",
