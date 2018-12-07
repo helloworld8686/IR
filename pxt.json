@@ -6,6 +6,7 @@
         "core": "*",
         "radio": "*"
     },
+    "icon":"http://pxt-img.stem6.com/IR.jpg",
     "files": [
         "shims.d.ts",
         "enums.d.ts",
