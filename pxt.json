@@ -1,12 +1,12 @@
 {
     "name": "IR",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "IR By cxk",
     "dependencies": {
         "core": "*",
         "radio": "*"
     },
-    "icon":"http://pxt-img.stem6.com/IR.jpg",
+    "icon": "http://pxt-img.stem6.com/IR.jpg",
     "files": [
         "shims.d.ts",
         "enums.d.ts",
